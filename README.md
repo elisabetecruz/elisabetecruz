@@ -1,7 +1,7 @@
 ### Olá! eu sou a Elisabete cruz 👋
 
 - 🌱 Estudando Html, CSS  JavaScript, Java, React e  c#
-- 😄 Pronouns: He/she
+
 
 <div align="center">
   <a href="https://github.com/elisabetecruz">
